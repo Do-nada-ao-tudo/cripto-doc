@@ -1,6 +1,7 @@
 # Autocustódia de Criptomoedas
 
 A **autocustódia** de criptomoedas refere-se ao ato de armazenar e gerenciar seus próprios ativos digitais sem depender de terceiros, como exchanges ou bancos. Isso significa que o usuário é o único responsável pela segurança de suas chaves privadas, que são essenciais para acessar e movimentar suas criptomoedas.
+![image](https://github.com/user-attachments/assets/b5df50d3-2043-4a45-91cf-bd43f4c9331b)
 
 ## Como Funciona?
 
